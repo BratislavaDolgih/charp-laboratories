@@ -1,0 +1,14 @@
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\bin\Debug\net8.0\Solution-for-Lab1.exe
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\bin\Debug\net8.0\Solution-for-Lab1.deps.json
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\bin\Debug\net8.0\Solution-for-Lab1.runtimeconfig.json
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\bin\Debug\net8.0\Solution-for-Lab1.dll
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\bin\Debug\net8.0\Solution-for-Lab1.pdb
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\obj\Debug\net8.0\Solution-for-Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\obj\Debug\net8.0\Solution-for-Lab1.AssemblyInfoInputs.cache
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\obj\Debug\net8.0\Solution-for-Lab1.AssemblyInfo.cs
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\obj\Debug\net8.0\Solution-for-Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\obj\Debug\net8.0\Solution-for-Lab1.dll
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\obj\Debug\net8.0\refint\Solution-for-Lab1.dll
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\obj\Debug\net8.0\Solution-for-Lab1.pdb
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\obj\Debug\net8.0\Solution-for-Lab1.genruntimeconfig.cache
+C:\Users\Степан\Desktop\КубГУ - main\3 семестр (2025 г.)\Лабы по конструированию алгоритмов\[Lab #1] Getting started in OOP\Solution-for-Lab1\Solution-for-Lab1\obj\Debug\net8.0\ref\Solution-for-Lab1.dll
