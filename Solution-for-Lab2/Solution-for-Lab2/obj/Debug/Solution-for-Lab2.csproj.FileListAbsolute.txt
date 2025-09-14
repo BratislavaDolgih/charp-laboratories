@@ -1,0 +1,8 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Solution-for-Lab2\Solution-for-Lab2\bin\Debug\Solution-for-Lab2.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Solution-for-Lab2\Solution-for-Lab2\bin\Debug\Solution-for-Lab2.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Solution-for-Lab2\Solution-for-Lab2\bin\Debug\Solution-for-Lab2.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Solution-for-Lab2\Solution-for-Lab2\obj\Debug\Solution-for-Lab2.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Solution-for-Lab2\Solution-for-Lab2\obj\Debug\Solution-for-Lab2.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Solution-for-Lab2\Solution-for-Lab2\obj\Debug\Solution-for-Lab2.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Solution-for-Lab2\Solution-for-Lab2\obj\Debug\Solution-for-Lab2.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Solution-for-Lab2\Solution-for-Lab2\obj\Debug\Solution-for-Lab2.exe.config
