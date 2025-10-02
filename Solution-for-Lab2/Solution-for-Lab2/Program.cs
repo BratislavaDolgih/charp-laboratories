@@ -134,10 +134,11 @@ namespace Solution_for_Lab2
                 new Place("FunPark", "DreamLand", 430)
             };
 
+            int hours = 15;
             foreach (Area area in areas)
             {
                 Console.WriteLine(area);
-                area.SettingTimeInArea(15);
+                area.SettingTimeInArea(hours++);
                 Console.WriteLine($"Time in area: {area.GetAreaTime()}");
                 Console.WriteLine();
             }

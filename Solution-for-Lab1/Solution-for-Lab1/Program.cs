@@ -42,7 +42,7 @@ namespace Solution_for_Lab1
             this.areaPopulation = areaPopulation;
             this.mortalityRate = mortalityRate;
         }
-        public void Information()
+        public virtual void Information()
         {
             Console.WriteLine($"Class 'CountryArea', info:\n" +
                 $"Name of area: {this.areaName}\n" +
@@ -79,9 +79,8 @@ namespace Solution_for_Lab1
             this.tournamentRate = tournamentRate;
         }
 
-        public void Information()
+        public override void Information()
         {
-            base.Information();
             Console.WriteLine($"Class 'City', info:\n" +
                 $"City: {this.cityName}" +
                 $"Rating: {this.tournamentRate}");
@@ -132,9 +131,8 @@ namespace Solution_for_Lab1
             this.cost = cost;
         }
 
-        public void Information()
+        public override void Information()
         {
-            base.Information();
             Console.WriteLine($"Class 'Metropolis', info:\n" +
                 $"Metropolis: {this.metropolisName}" +
                 $"Cost: {this.cost}");
@@ -162,9 +160,8 @@ namespace Solution_for_Lab1
             Category = category;
             IsPopular = isPopular;
         }
-        public void Information()
+        public override void Information()
         {
-            base.Information();
             Console.WriteLine($"Класс 'CityPlace':\n" +
                 $"Place: {PlaceName}\n" +
                 $"Category: {Category}\n" +

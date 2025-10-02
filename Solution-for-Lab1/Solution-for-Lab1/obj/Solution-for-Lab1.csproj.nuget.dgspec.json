@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Степан\\Desktop\\КубГУ - main\\3 семестр (2025 г.)\\Лабы по конструированию алгоритмов\\[Lab #1] Getting started in OOP\\Solution-for-Lab1\\Solution-for-Lab1\\Solution-for-Lab1.csproj": {}
+    "C:\\Users\\User333\\Desktop\\Универ (универсальное)\\«Конструирование алгоритмов»\\charp-laboratories\\Solution-for-Lab1\\Solution-for-Lab1\\Solution-for-Lab1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Степан\\Desktop\\КубГУ - main\\3 семестр (2025 г.)\\Лабы по конструированию алгоритмов\\[Lab #1] Getting started in OOP\\Solution-for-Lab1\\Solution-for-Lab1\\Solution-for-Lab1.csproj": {
+    "C:\\Users\\User333\\Desktop\\Универ (универсальное)\\«Конструирование алгоритмов»\\charp-laboratories\\Solution-for-Lab1\\Solution-for-Lab1\\Solution-for-Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Степан\\Desktop\\КубГУ - main\\3 семестр (2025 г.)\\Лабы по конструированию алгоритмов\\[Lab #1] Getting started in OOP\\Solution-for-Lab1\\Solution-for-Lab1\\Solution-for-Lab1.csproj",
+        "projectUniqueName": "C:\\Users\\User333\\Desktop\\Универ (универсальное)\\«Конструирование алгоритмов»\\charp-laboratories\\Solution-for-Lab1\\Solution-for-Lab1\\Solution-for-Lab1.csproj",
         "projectName": "Solution-for-Lab1",
-        "projectPath": "C:\\Users\\Степан\\Desktop\\КубГУ - main\\3 семестр (2025 г.)\\Лабы по конструированию алгоритмов\\[Lab #1] Getting started in OOP\\Solution-for-Lab1\\Solution-for-Lab1\\Solution-for-Lab1.csproj",
-        "packagesPath": "C:\\Users\\Степан\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Степан\\Desktop\\КубГУ - main\\3 семестр (2025 г.)\\Лабы по конструированию алгоритмов\\[Lab #1] Getting started in OOP\\Solution-for-Lab1\\Solution-for-Lab1\\obj\\",
+        "projectPath": "C:\\Users\\User333\\Desktop\\Универ (универсальное)\\«Конструирование алгоритмов»\\charp-laboratories\\Solution-for-Lab1\\Solution-for-Lab1\\Solution-for-Lab1.csproj",
+        "packagesPath": "C:\\Users\\User333\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User333\\Desktop\\Универ (универсальное)\\«Конструирование алгоритмов»\\charp-laboratories\\Solution-for-Lab1\\Solution-for-Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Степан\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User333\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
