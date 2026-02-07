@@ -1,0 +1,8 @@
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\PersonalTask\PersonalTask\bin\Debug\PersonalTask.exe.config
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\PersonalTask\PersonalTask\bin\Debug\PersonalTask.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\PersonalTask\PersonalTask\bin\Debug\PersonalTask.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\PersonalTask\PersonalTask\obj\Debug\PersonalTask.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\PersonalTask\PersonalTask\obj\Debug\PersonalTask.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\PersonalTask\PersonalTask\obj\Debug\PersonalTask.exe
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\PersonalTask\PersonalTask\obj\Debug\PersonalTask.pdb
+C:\Users\User333\Desktop\Универ (универсальное)\«Конструирование алгоритмов»\EXERCISES\PersonalTask\PersonalTask\obj\Debug\PersonalTask.exe.config
