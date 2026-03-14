@@ -587,13 +587,11 @@ namespace TreeMapImplementation
                 node.Key = successor.Key;
                 node.Value = successor.Value;
 
-                // Рекурсивно удаляем преемника (у него максимум один правый ребёнок)
-                size++; // Компенсируем, т.к. DeleteNode уменьшит size
+                size++; 
                 DeleteNode(successor);
             }
         }
 
-        // Метод для отладки - вывод дерева
         public void PrintTree()
         {
             if (root == null)
@@ -634,22 +632,16 @@ namespace TreeMapImplementation
         {
             Console.WriteLine("=== ДЕМОНСТРАЦИЯ MyTreeMap (BST) ===\n");
 
-            // Пример 1: Основные операции
             Example1_BasicOperations();
 
-            // Пример 2: Пользовательский компаратор
             Example2_CustomComparator();
 
-            // Пример 3: Навигационные методы
             Example3_NavigationMethods();
 
-            // Пример 4: SubMap, HeadMap, TailMap
             Example4_RangeMaps();
 
-            // Пример 5: Обработка ошибок
             Example5_ErrorHandling();
 
-            // Пример 6: Демонстрация структуры дерева
             Example6_TreeVisualization();
 
             Console.WriteLine("\n=== ПРОГРАММА ЗАВЕРШЕНА ===");
@@ -660,7 +652,6 @@ namespace TreeMapImplementation
             Console.WriteLine("--- Пример 1: Основные операции ---");
             var map = new MyTreeMap<int, string>();
 
-            // Добавление элементов
             map.Put(5, "Пять");
             map.Put(2, "Два");
             map.Put(8, "Восемь");
@@ -732,8 +723,8 @@ namespace TreeMapImplementation
             int searchKey = 35;
             Console.WriteLine($"Поиск относительно ключа {searchKey}:");
             Console.WriteLine($"  Lower (<{searchKey}): {map.LowerEntry(searchKey)}");
-            Console.WriteLine($"  Floor (≤{searchKey}): {map.FloorEntry(searchKey)}");
-            Console.WriteLine($"  Ceiling (≥{searchKey}): {map.CeilingEntry(searchKey)}");
+            Console.WriteLine($"  Floor (<={searchKey}): {map.FloorEntry(searchKey)}");
+            Console.WriteLine($"  Ceiling (>={searchKey}): {map.CeilingEntry(searchKey)}");
             Console.WriteLine($"  Higher (>{searchKey}): {map.HigherEntry(searchKey)}");
 
             searchKey = 40;
@@ -795,11 +786,11 @@ namespace TreeMapImplementation
             {
                 var map = new MyTreeMap<int, string>();
                 map.Put(0, null); // null-значение - OK
-                Console.WriteLine("✓ Можно добавить null-значение");
+                Console.WriteLine(" Можно добавить null-значение");
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"✗ Ошибка: {ex.Message}");
+                Console.WriteLine($" Ошибка: {ex.Message}");
             }
 
             try
@@ -809,7 +800,7 @@ namespace TreeMapImplementation
             }
             catch (ArgumentNullException ex)
             {
-                Console.WriteLine($"✓ Поймана ожидаемая ошибка: {ex.ParamName} не может быть null");
+                Console.WriteLine($" Поймана ожидаемая ошибка: {ex.ParamName} не может быть null");
             }
 
             try
@@ -819,7 +810,7 @@ namespace TreeMapImplementation
             }
             catch (InvalidOperationException ex)
             {
-                Console.WriteLine($"✓ Поймана ожидаемая ошибка: {ex.Message}");
+                Console.WriteLine($" Поймана ожидаемая ошибка: {ex.Message}");
             }
 
             try
@@ -829,20 +820,20 @@ namespace TreeMapImplementation
             }
             catch (InvalidOperationException ex)
             {
-                Console.WriteLine($"✓ Поймана ошибка для несравниваемого типа");
+                Console.WriteLine($" Поймана ошибка для несравниваемого типа");
             }
 
             // Безопасное удаление несуществующего ключа
             var safeMap = new MyTreeMap<int, string>();
             safeMap.Put(1, "Один");
             var result = safeMap.Remove(999);
-            Console.WriteLine($"✓ Удаление несуществующего ключа вернуло: {result ?? "null"}");
+            Console.WriteLine($" Удаление несуществующего ключа вернуло: {result ?? "null"}");
 
             // PollFirstEntry на пустой карте
             var emptyMap = new MyTreeMap<int, string>();
             var polled = emptyMap.PollFirstEntry();
             result = polled != null ? "NOT EMPTY" : "null";
-            Console.WriteLine($"✓ PollFirstEntry на пустой карте вернул: {result}");
+            Console.WriteLine($" PollFirstEntry на пустой карте вернул: {result}");
 
             Console.WriteLine();
         }

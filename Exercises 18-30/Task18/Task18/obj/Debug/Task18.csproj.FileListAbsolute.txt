@@ -5,3 +5,10 @@ C:\Users\User333\source\repos\Task18\Task18\obj\Debug\Task18.csproj.AssemblyRefe
 C:\Users\User333\source\repos\Task18\Task18\obj\Debug\Task18.csproj.CoreCompileInputs.cache
 C:\Users\User333\source\repos\Task18\Task18\obj\Debug\Task18.exe
 C:\Users\User333\source\repos\Task18\Task18\obj\Debug\Task18.pdb
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task18\Task18\bin\Debug\Task18.exe.config
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task18\Task18\bin\Debug\Task18.exe
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task18\Task18\bin\Debug\Task18.pdb
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task18\Task18\obj\Debug\Task18.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task18\Task18\obj\Debug\Task18.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task18\Task18\obj\Debug\Task18.exe
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task18\Task18\obj\Debug\Task18.pdb
