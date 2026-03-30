@@ -1,0 +1,10 @@
+﻿Operation,Size,SuccessfulRuns,HashMapAvgMs,TreeMapAvgMs,FasterStructure
+Put,1000,20,0.165,1.021,HashMap
+Put,10000,20,0.856,10.782,HashMap
+Put,100000,20,10.960,125.464,HashMap
+Get,1000,20,0.066,0.119,HashMap
+Get,10000,20,0.404,1.298,HashMap
+Get,100000,20,4.495,16.498,HashMap
+Remove,1000,20,0.057,1.983,HashMap
+Remove,10000,20,0.542,23.429,HashMap
+Remove,100000,20,5.049,260.633,HashMap

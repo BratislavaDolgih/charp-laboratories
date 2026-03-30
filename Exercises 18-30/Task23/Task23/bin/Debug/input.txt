@@ -1,0 +1,35 @@
+int count = 10;
+float rate = 25;
+double total = 99999;
+
+int
+index
+=
+42
+;
+
+float speed=
+12345;
+
+double
+veryLongValue
+=
+7777777
+;
+
+char letter = 65;
+long amount = 5000;
+
+int count = 99;
+double total = 1;
+
+int 2abc = 100;
+float value = abc;
+double = 55;
+int good_name_1 = 123;
+float anotherValue = 0;
+double finalResult = 987654321;
+
+wrong_definition;
+int x = 15
+double y = 25;

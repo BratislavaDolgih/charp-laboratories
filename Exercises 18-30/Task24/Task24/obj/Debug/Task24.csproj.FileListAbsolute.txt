@@ -1,0 +1,7 @@
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task24\Task24\bin\Debug\Task24.exe.config
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task24\Task24\bin\Debug\Task24.exe
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task24\Task24\bin\Debug\Task24.pdb
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task24\Task24\obj\Debug\Task24.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task24\Task24\obj\Debug\Task24.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task24\Task24\obj\Debug\Task24.exe
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task24\Task24\obj\Debug\Task24.pdb
