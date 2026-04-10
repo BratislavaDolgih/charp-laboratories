@@ -1,0 +1,10 @@
+Hello world! HELLO WoRLd...
+This is a test. This TEST is simple.
+Numbers 123 should not be included.
+MixedCase words: Apple apple APPLE ApPlE
+Symbols: @#$%^&*() should be ignored.
+LongWordTest supercalifragilisticexpialidocious SUPERcalifragilisticexpialidocious
+EdgeCases: a A aa AA aaa AAA
+Repeat repeat REPEAT repeat
+abc123 abc abc123abc abc
+end.

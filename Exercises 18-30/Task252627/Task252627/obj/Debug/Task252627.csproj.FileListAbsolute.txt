@@ -1,0 +1,7 @@
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task252627\Task252627\bin\Debug\Task252627.exe.config
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task252627\Task252627\bin\Debug\Task252627.exe
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task252627\Task252627\bin\Debug\Task252627.pdb
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task252627\Task252627\obj\Debug\Task252627.csproj.AssemblyReference.cache
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task252627\Task252627\obj\Debug\Task252627.csproj.CoreCompileInputs.cache
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task252627\Task252627\obj\Debug\Task252627.exe
+C:\Users\User333\Desktop\Универ-4 (универсальное)\«Конструирование алгоритмов»\charp-laboratories\Exercises 18-30\Task252627\Task252627\obj\Debug\Task252627.pdb

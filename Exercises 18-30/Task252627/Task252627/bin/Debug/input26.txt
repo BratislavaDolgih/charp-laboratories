@@ -1,0 +1,18 @@
+hello world
+hi all
+a bb ccc
+ccc bb a
+one two three four
+four three two one
+a a a a a
+aa aa aa
+a bb ccc dddd
+dddd ccc bb a
+short longword
+tiny hugeword enormousword
+x y z
+z y x
+single
+oneword
+two words
+words two
