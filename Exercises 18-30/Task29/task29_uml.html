@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Task 29 UML</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 24px; background: #fafafa; color: #222; }
+    h1, h2 { margin: 0 0 12px; }
+    p { max-width: 1000px; line-height: 1.45; }
+    .box { background: #fff; border: 1px solid #ddd; border-radius: 10px; padding: 18px; margin: 18px 0; box-shadow: 0 1px 4px rgba(0,0,0,.04); }
+    pre.mermaid { overflow: auto; white-space: pre; font-size: 14px; }
+    code.inline { background: #f0f0f0; padding: 2px 6px; border-radius: 4px; }
+  </style>
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true, securityLevel: 'loose', theme: 'default' });
+  </script>
+</head>
+<body>
+  <h1>UML-диаграмма для задачи 29</h1>
+
+  <div class="box">
+<pre class="mermaid">classDiagram
+direction LR
+
+class MyException
+class MyNullArgumentException
+class MyIndexOutOfBoundsException
+class MyNoSuchElementException
+class MyIllegalStateException
+class MyUnsupportedOperationException
+
+MyException <|-- MyNullArgumentException
+MyException <|-- MyIndexOutOfBoundsException
+MyException <|-- MyNoSuchElementException
+MyException <|-- MyIllegalStateException
+MyException <|-- MyUnsupportedOperationException
+
+class MyIterator~T~ {
+  +hasNext() bool
+  +next() T
+  +remove() void
+}
+
+class MyListIterator~T~ {
+  +hasPrevious() bool
+  +previous() T
+  +nextIndex() int
+  +previousIndex() int
+  +set(T) void
+  +add(T) void
+}
+
+MyIterator <|-- MyListIterator
+
+class MyCollection~T~ {
+  +add(T) bool
+  +addAll(MyCollection~T~) bool
+  +clear() void
+  +contains(object) bool
+  +containsAll(MyCollection~T~) bool
+  +isEmpty() bool
+  +remove(object) bool
+  +removeAll(MyCollection~T~) bool
+  +retainAll(MyCollection~T~) bool
+  +size() int
+  +toArray() object[]
+  +toArray(T[]) T[]
+}
+
+class MyList~T~ {
+  +add(int,T) void
+  +addAll(int,MyCollection~T~) bool
+  +get(int) T
+  +indexOf(object) int
+  +lastIndexOf(object) int
+  +listIterator() MyListIterator~T~
+  +listIterator(int) MyListIterator~T~
+  +remove(int) T
+  +set(int,T) T
+  +subList(int,int) MyList~T~
+}
+
+class MyQueue~T~ {
+  +element() T
+  +offer(T) bool
+  +peek() T
+  +poll() T
+}
+
+class MyDeque~T~ {
+  +addFirst(T) void
+  +addLast(T) void
+  +getFirst() T
+  +getLast() T
+  +offerFirst(T) bool
+  +offerLast(T) bool
+  +pop() T
+  +push(T) void
+  +peekFirst() T
+  +peekLast() T
+  +pollFirst() T
+  +pollLast() T
+  +removeLast() T
+  +removeFirst() T
+  +removeLastOccurrence(object) bool
+  +removeFirstOccurrence(object) bool
+}
+
+class MySet~T~ {
+  +first() T
+  +last() T
+  +subSet(T,T) MySet~T~
+  +headSet(T) MySet~T~
+  +tailSet(T) MySet~T~
+}
+
+class MySortedSet~T~
+class MyNavigableSet~T~ {
+  +lower(T) T
+  +floor(T) T
+  +higher(T) T
+  +ceiling(T) T
+  +headSet(T,bool) MySet~T~
+  +subSet(T,bool,T,bool) MySet~T~
+  +tailSet(T,bool) MySet~T~
+  +pollLast() T
+  +pollFirst() T
+  +descendingIterator() MyIterator~T~
+  +descendingSet() MyNavigableSet~T~
+}
+
+MyCollection <|-- MyList
+MyCollection <|-- MyQueue
+MyCollection <|-- MyDeque
+MyCollection <|-- MySet
+MySet <|-- MySortedSet
+MySortedSet <|-- MyNavigableSet
+
+class MyMapEntry~K,V~ {
+  +Key K
+  +Value V
+}
+
+class MyMap~K,V~ {
+  +clear() void
+  +containsKey(object) bool
+  +containsValue(object) bool
+  +entrySet() MyCollection~MyMapEntry~
+  +get(object) V
+  +isEmpty() bool
+  +keySet() MySet~K~
+  +put(K,V) V
+  +putAll(MyMap~K,V~) void
+  +remove(object) V
+  +size() int
+  +values() MyCollection~V~
+}
+
+class MySortedMap~K,V~ {
+  +firstKey() K
+  +lastKey() K
+  +headMap(K) MySortedMap~K,V~
+  +subMap(K,K) MySortedMap~K,V~
+  +tailMap(K) MySortedMap~K,V~
+}
+
+class MyNavigableMap~K,V~ {
+  +lowerEntry(K) MyMapEntry~K,V~
+  +floorEntry(K) MyMapEntry~K,V~
+  +higherEntry(K) MyMapEntry~K,V~
+  +ceilingEntry(K) MyMapEntry~K,V~
+  +lowerKey(K) K
+  +floorKey(K) K
+  +higherKey(K) K
+  +ceilingKey(K) K
+  +pollFirstEntry() MyMapEntry~K,V~
+  +pollLastEntry() MyMapEntry~K,V~
+  +firstEntry() MyMapEntry~K,V~
+  +lastEntry() MyMapEntry~K,V~
+}
+
+MyMap <|-- MySortedMap
+MySortedMap <|-- MyNavigableMap
+
+class MyArrayList~T~
+class MyVector~T~
+class MyLinkedList~T~
+class MyPriorityQueue~T~
+class MyArrayDeque~T~
+class MyHashSet~T~
+class MyTreeSet~T~
+class MyHashMap~K,V~
+class MyTreeMap~K,V~
+
+MyList <|.. MyArrayList
+MyList <|.. MyVector
+MyList <|.. MyLinkedList
+MyQueue <|.. MyPriorityQueue
+MyList <|.. MyArrayDeque
+MyDeque <|.. MyArrayDeque
+MySet <|.. MyHashSet
+MyNavigableSet <|.. MyTreeSet
+MyMap <|.. MyHashMap
+MyNavigableMap <|.. MyTreeMap
+
+MyVector --|> MyArrayList
+MyTreeSet *-- MyTreeMap
+MyHashSet *-- MyHashMap
+MyMap --> MyMapEntry
+MyArrayList ..> MyListIterator
+MyVector ..> MyListIterator
+MyLinkedList ..> MyListIterator
+MyPriorityQueue ..> MyIterator
+MyArrayDeque ..> MyListIterator
+MyHashSet ..> MyIterator
+MyTreeSet ..> MyIterator
+</pre>
+  </div>
+</body>
+</html>
