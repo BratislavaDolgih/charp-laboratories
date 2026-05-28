@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\SQL-labs\\Lab-9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0043724B-A09F-05F5-60DB-7D6CA986A943}|Lab-9\\Lab-9.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\sql-labs\\lab-9\\lab-9\\forms\\crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0043724B-A09F-05F5-60DB-7D6CA986A943}|Lab-9\\Lab-9.csproj|solutionrelative:lab-9\\forms\\crudform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0043724B-A09F-05F5-60DB-7D6CA986A943}|Lab-9\\Lab-9.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\sql-labs\\lab-9\\lab-9\\data\\pg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0043724B-A09F-05F5-60DB-7D6CA986A943}|Lab-9\\Lab-9.csproj|solutionrelative:lab-9\\data\\pg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0043724B-A09F-05F5-60DB-7D6CA986A943}|Lab-9\\Lab-9.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\sql-labs\\lab-9\\lab-9\\forms\\editors\\baseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0043724B-A09F-05F5-60DB-7D6CA986A943}|Lab-9\\Lab-9.csproj|solutionrelative:lab-9\\forms\\editors\\baseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pg.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\SQL-labs\\Lab-9\\Lab-9\\Data\\Pg.cs",
+              "RelativeDocumentMoniker": "Lab-9\\Data\\Pg.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\SQL-labs\\Lab-9\\Lab-9\\Data\\Pg.cs",
+              "RelativeToolTip": "Lab-9\\Data\\Pg.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:10:45.472Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrudForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\SQL-labs\\Lab-9\\Lab-9\\Forms\\CrudForm.cs",
+              "RelativeDocumentMoniker": "Lab-9\\Forms\\CrudForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\SQL-labs\\Lab-9\\Lab-9\\Forms\\CrudForm.cs",
+              "RelativeToolTip": "Lab-9\\Forms\\CrudForm.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAiwPYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:12:22.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\SQL-labs\\Lab-9\\Lab-9\\Forms\\Editors\\BaseEditForm.cs",
+              "RelativeDocumentMoniker": "Lab-9\\Forms\\Editors\\BaseEditForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\SQL-labs\\Lab-9\\Lab-9\\Forms\\Editors\\BaseEditForm.cs",
+              "RelativeToolTip": "Lab-9\\Forms\\Editors\\BaseEditForm.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAiwCoBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:11:15.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

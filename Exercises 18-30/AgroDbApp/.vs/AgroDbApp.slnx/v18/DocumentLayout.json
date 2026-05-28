@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\data\\pg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\data\\pg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\tableviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\tableviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\reportssowingsummaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\reportssowingsummaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\reportstechniqueinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\reportstechniqueinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\reportoperationjournalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\reportoperationjournalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\journalentryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\journalentryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\sowingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\sowingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\operationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\operationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\requestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\requestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\techniqueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\techniqueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\parkingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\parkingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\fieldform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\fieldform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\cultureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\cultureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\techniquetypeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\techniquetypeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\soiltypeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\soiltypeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\forms\\positionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\forms\\positionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|c:\\users\\user333\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\exercises 18-30\\agrodbapp\\agrodbapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D5A615-FBDC-8739-C402-C172B1365C18}|AgroDbApp\\AgroDbApp.csproj|solutionrelative:agrodbapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Program.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Program.cs",
+              "RelativeToolTip": "AgroDbApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:26:04.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableViewForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\TableViewForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\TableViewForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\TableViewForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\TableViewForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:38:20.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pg.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Data\\Pg.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Data\\Pg.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Data\\Pg.cs",
+              "RelativeToolTip": "AgroDbApp\\Data\\Pg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:37:12.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportsSowingSummaryForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\ReportsSowingSummaryForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\ReportsSowingSummaryForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\ReportsSowingSummaryForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\ReportsSowingSummaryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:36:49.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportsTechniqueInfoForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\ReportsTechniqueInfoForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\ReportsTechniqueInfoForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\ReportsTechniqueInfoForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\ReportsTechniqueInfoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:36:38.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportOperationJournalForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\ReportOperationJournalForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\ReportOperationJournalForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\ReportOperationJournalForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\ReportOperationJournalForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:36:20.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JournalEntryForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\JournalEntryForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\JournalEntryForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\JournalEntryForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\JournalEntryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:36:08.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\AboutForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\AboutForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\AboutForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:36:56.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\MainForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\MainForm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:33:50.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SowingForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\SowingForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\SowingForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\SowingForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\SowingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:35:58.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OperationForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\OperationForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\OperationForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\OperationForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\OperationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:35:48.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RequestForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\RequestForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\RequestForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\RequestForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\RequestForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:35:38.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TechniqueForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\TechniqueForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\TechniqueForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\TechniqueForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\TechniqueForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:35:27.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParkingForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\ParkingForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\ParkingForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\ParkingForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\ParkingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:35:18.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FieldForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\FieldForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\FieldForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\FieldForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\FieldForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:35:09.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\EmployeeForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\EmployeeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:35:03.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CultureForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\CultureForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\CultureForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\CultureForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\CultureForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:34:51.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TechniqueTypeForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\TechniqueTypeForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\TechniqueTypeForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\TechniqueTypeForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\TechniqueTypeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:34:44.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SoilTypeForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\SoilTypeForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\SoilTypeForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\SoilTypeForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\SoilTypeForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:34:32.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PositionForm.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\PositionForm.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Forms\\PositionForm.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Forms\\PositionForm.cs",
+              "RelativeToolTip": "AgroDbApp\\Forms\\PositionForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:34:01.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Form1.cs",
+              "RelativeDocumentMoniker": "AgroDbApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\User333\\Desktop\\\u0423\u043D\u0438\u0432\u0435\u0440-4 (\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B\u044C\u043D\u043E\u0435)\\\u00AB\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u043E\u0432\u00BB\\charp-laboratories\\Exercises 18-30\\AgroDbApp\\AgroDbApp\\Form1.cs",
+              "RelativeToolTip": "AgroDbApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T11:32:14.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

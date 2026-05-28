@@ -1,1 +1,17 @@
-﻿IMPOSSIBLE
+﻿AMBIGUOUS
+WORDS=6
+INTERSECTIONS=7
+AREA=30
+GRID:
+ТОКАРЬ
+О.О.О.
+К.Т.Т.
+....О.
+..ТОРТ
+PLACEMENTS:
+КОТ 2 0 V
+РОТ 4 0 V
+РОТОР 4 0 V
+ТОК 0 0 V
+ТОКАРЬ 0 0 H
+ТОРТ 2 4 H
